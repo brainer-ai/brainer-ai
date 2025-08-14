@@ -15,15 +15,6 @@ AI Engineer passionate about crafting intelligent systems through Machine Learni
     <td width="35%" align="right">
       <img src="https://camo.githubusercontent.com/3c2a37ec9351da33136694e45215e5091ae0e0a14d52da27af08547a034e0295/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966"  height="150" alt="Coder GIF"/>
     </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Losif01&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Losif01&theme=dracula" alt="GitHub Streak" />
-</div>
-
 ## 🚀 Skills & Technologies   
 
 <table>
