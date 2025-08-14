@@ -50,11 +50,7 @@ AI Engineer passionate about crafting intelligent systems through Machine Learni
   </tr>
 </table>
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Losif01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+<img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
 ## 🧠 Currently Learning 
 
